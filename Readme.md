@@ -49,12 +49,29 @@ The dataset used in this contest contains different features about diamonds.
 -Jupyter Notebook 
 
 ## 💎**Steps**
-1. Data Cleaning 
-	- The dataset is stored with format .db. To do the data cleaning and get the required tables I used DBeaver.
+Data Cleaning
+o	The dataset is stored with format .db. To do the data cleaning I used DBeaver.
+o	I used SQL querys, to get the tables.
+Data Preprocessing:
+o	Categorical variables (cut, color, clarity and city) were encoded with LabenEncoder from scikit-learn.
+o	I concatenate features to make a single table.
+o	I sorted the columns so that they were in the same format as the test
+Features + Target:
+o	I separated my data into X (Features) and y (Target), so I can train the model.
+Model Building 
+o	I split the preprocessed dataset into training and testing sets using train_test_split from scikit-learn.
+o	I tried 4 different models:
+1.	Linear Regression
+2.	RandomForest
+3.	DecisionTree
+4.	GradientBoosting
+o	I decided to use the Random Forest Regressor model, which has been the one that has given me the best results.
+o	Obtain predictions of diamond prices, import to csv and upload to Kaggle competition.
 
 
 
-![Captura de pantalla 2024-01-19 163021](https://github.com/AlanaCastillo/Ironhack-Project-Module-2/assets/141866356/7a02eae5-5ec4-4469-a1b4-6655ca63a964)  Power BI Desktop
+
+
 
 
 
