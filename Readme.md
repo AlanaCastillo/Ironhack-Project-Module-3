@@ -29,6 +29,7 @@ https://www.kaggle.com/datasets/shivam2503/diamonds
 ## 💎**Dataset Description**
 The dataset used in this contest contains different features about diamonds.
 
+- **Id:** Identifier number
 - **Price:** price of diamond
 - **Cut:** is the shape and proportions of the diamond
 - **Color:** is the hue of the diamond
