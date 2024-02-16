@@ -89,19 +89,15 @@ The dataset used in this contest contains different features about diamonds.
         ├── diamonds_train_enc.db
         ├── diamonds_test_enc.csv
         └── sample_submission.csv
+    ├── preprocessing
+        └── Preprocessing diamonds.ipynb
+
     ├── models
         ├── Boost.ipynb
         ├── Desision Tree.ipynb
         ├── Linear.ipynb
         └── Random.ipynb
-
-    ├── final submissions
-        ├── model_1.csv
-        └── model_2.csv
-    ├── models
-        ├── model_1.sav
-        └── model_2.sav
-    ├── .gitignore
+   
     └── README.md
 ```
 
