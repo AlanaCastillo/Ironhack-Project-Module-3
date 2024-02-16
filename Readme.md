@@ -45,10 +45,11 @@ The dataset used in this contest contains different features about diamonds.
 
 
 ## 💎**Tecnologies**
--DBeaver
+![icons8-dbeaver-64](https://github.com/AlanaCastillo/Ironhack-Project-Module-3/assets/141866356/b533bf55-cf52-4a6e-87fa-271ac2dbaeea)
+DBeaver
 
 
--![icons8-jupyter-48](https://github.com/AlanaCastillo/Ironhack-Project-Module-3/assets/141866356/4beb748a-fb24-4ed4-b0f3-d105ade0ecb3)  Jupyter Notebook 
+![icons8-jupyter-48](https://github.com/AlanaCastillo/Ironhack-Project-Module-3/assets/141866356/4beb748a-fb24-4ed4-b0f3-d105ade0ecb3)  Jupyter Notebook 
 
 
 
