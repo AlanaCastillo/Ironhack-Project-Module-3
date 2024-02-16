@@ -65,15 +65,15 @@ The dataset used in this contest contains different features about diamonds.
 - I sorted the columns so that they were in the same format as the test
 
 **Features and Target** 
-- I separated my data into X (Features) and y (Target), so I can train the model.
+- Assigning the features as X (Features) and y (Target)
   
 **Model Building** 
-- I split the preprocessed dataset into training and testing sets using train_test_split from scikit-learn.
-- I tried 4 different models:
-1.	Linear Regression
-2.	RandomForest
-3.	DecisionTree
-4.	GradientBoosting
+- Split the preprocessed dataset into training and testing sets using train_test_split from scikit-learn.
+- Try 4 different models:
+	1.	Linear Regression
+	2.	RandomForest 💎
+	3.	DecisionTree
+	4.	GradientBoosting
 - I decided to use the Random Forest Regressor model, which has been the one that has given me the best results.
 - Obtain predictions of diamond prices, import to csv and upload to Kaggle competition.
 
