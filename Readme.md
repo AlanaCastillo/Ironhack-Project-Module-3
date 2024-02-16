@@ -91,13 +91,11 @@ The dataset used in this contest contains different features about diamonds.
         └── sample_submission.csv
     ├── preprocessing
         └── Preprocessing diamonds.ipynb
-
     ├── models
         ├── Boost.ipynb
         ├── Desision Tree.ipynb
         ├── Linear.ipynb
         └── Random.ipynb
-   
     └── README.md
 ```
 
