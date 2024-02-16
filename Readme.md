@@ -1,7 +1,7 @@
 <div align="center">
 
 # ******Diamonds Price Predictions****** </div>
-![Captura de pantalla 2024-02-16 221627](https://github.com/AlanaCastillo/Ironhack-Project-Module-3/assets/141866356/959e00f5-9568-4660-abf3-4d4db1d260f8)
+         ![Captura de pantalla 2024-02-16 221627](https://github.com/AlanaCastillo/Ironhack-Project-Module-3/assets/141866356/959e00f5-9568-4660-abf3-4d4db1d260f8)
 
 
 
