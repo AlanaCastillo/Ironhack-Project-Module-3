@@ -51,7 +51,7 @@ The dataset used in this contest contains different features about diamonds.
 ## 💎**Steps**
 
 
-**Data Cleaning **  
+**Data Cleaning**   
   
 The dataset is stored with format .db. To do the data cleaning I used DBeaver.
 I used SQL querys, to get the tables.
