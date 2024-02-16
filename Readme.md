@@ -82,15 +82,19 @@ The dataset used in this contest contains different features about diamonds.
 ## 💎 Project Structure
 
 ```bash
-└── project   
+└── Ironhack-Project-Module-3 
     └── data
         ├── diamonds_train.csv
-        ├── diamonds_train.db
-        ├── diamonds_predict.csv
+        ├── diamonds_test.csv
+        ├── diamonds_train_enc.db
+        ├── diamonds_test_enc.csv
         └── sample_submission.csv
-    ├── final notebooks
-        ├── model_1.ipynb
-        └── model_2.ipynb
+    ├── models
+        ├── Boost.ipynb
+        ├── Desision Tree.ipynb
+        ├── Linear.ipynb
+        └── Random.ipynb
+
     ├── final submissions
         ├── model_1.csv
         └── model_2.csv
