@@ -10,6 +10,7 @@ Ironhack Madrid - Data Analytics Part Time - Sep 2023 - Project Module 3.
 
 This is a repository of the Machine Learning Competition on diamonds price prediction.
 The objective of the project is to predict prices of diamonds based on different features by traing regression model.
+
 The dataset used is in the following link:
 https://www.kaggle.com/datasets/shivam2503/diamonds
 
@@ -21,7 +22,7 @@ https://www.kaggle.com/datasets/shivam2503/diamonds
 The dataset used in this contest contains different features about diamonds.
 
 -  **Price: **price of diamond
--  ****Cut: ****is the shape and proportions of the diamond
+- **Cut:**is the shape and proportions of the diamond
 - **Color:** is the hue of the diamond
 - **Clarity:**  is the degree of purity of the diamond
 - **City:** where the diamond was sold sold
