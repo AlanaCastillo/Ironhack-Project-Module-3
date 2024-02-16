@@ -99,7 +99,10 @@ The dataset used in this contest contains different features about diamonds.
     └── README.md
 ```
 
+## 💎**Author**
 
+- Alana Castillo Trujillo
+- :octocat: https://github.com/AlanaCastillo)https://github.com/AlanaCastillo
 
 
 
