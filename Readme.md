@@ -79,6 +79,30 @@ The dataset used in this contest contains different features about diamonds.
 - Obtain predictions of diamond prices, import to csv and upload to Kaggle competition.
 
 
+## 	:see_no_evil: Project structure:
+
+``` bash
+Proyect-Module-3/
+
+│── data
+│   ├── diamonds_test.csv
+│   ├── diamonds_train.csv
+│   ├── diamonds_train.db.csv
+│   ├── sample_submission.csv
+│   └── submission
+│       ├── submission_DT_RMSE523552.csv
+│       ├── submission_LR1_RMSE0.csv
+│       ├── submission_NLimRFR_MSR_149815_.csv
+
+├── notebooks
+│   ├── M_DecisionTree.ipynb
+│   ├── Baseline.ipynb
+│   ├── Data_Preparation.ipynb
+│   ├── Data_visual.ipynb
+│   ├── M_DecisionTreeRegressor.ipynb
+├── LICENSE
+└── README.md
+``` 
 
 
 
