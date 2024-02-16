@@ -22,7 +22,16 @@ https://www.kaggle.com/datasets/shivam2503/diamonds
 The dataset used in this contest contains different features about diamonds.
 
 -  **Price: **price of diamond
-- **Cut:**is the shape and proportions of the diamond
+- **Cut: **is the shape and proportions of the diamond
+- **Color:** is the hue of the diamond
+- **Clarity:**  is the degree of purity of the diamond
+- **City:** where the diamond was sold sold
+- **Carat: **is the weight of the diamond
+- **Depht:** is the distance from its top table to the culet at its base
+- **Table:**  the facet which can be seen when the stone is viewed face up
+- **x:** length 
+- **y:** width 
+- **z: ** depth is the shape and proportions of the diamond
 - **Color:** is the hue of the diamond
 - **Clarity:**  is the degree of purity of the diamond
 - **City:** where the diamond was sold sold
