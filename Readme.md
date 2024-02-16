@@ -37,6 +37,7 @@ The dataset used in this contest contains different features about diamonds.
 
 ## 💎**Tecnologies**
 -DBeaver
+
 -Jupyter Notebook 
 
 ## 💎**Steps**
