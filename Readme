@@ -5,7 +5,7 @@
 
 
 
-## :gem:**Description**
+## 💎**Description**
 Ironhack Madrid - Data Analytics Part Time - Sep 2023 - Project Module 2. 
 
 The aim of this dashboard is to provide the OB department with the purpose of identifying the drivers, to establish campaigns, with the aim of reducing the number of damaged units shipped.
@@ -13,19 +13,19 @@ The aim of this dashboard is to provide the operation department (pick, pack, sh
 
 
 
-## 📦**Data Diagram**
+## 💎**Data Diagram**
 ![Data Model ](https://github.com/AlanaCastillo/Ironhack-Project-Module-2/assets/141866356/5d08d5d5-f001-4be2-8625-35396fe0b90a)
 
 
 
-## 📦**Visualization Tool**
+## 💎**Visualization Tool**
 
 
 ![Captura de pantalla 2024-01-19 163021](https://github.com/AlanaCastillo/Ironhack-Project-Module-2/assets/141866356/7a02eae5-5ec4-4469-a1b4-6655ca63a964)  Power BI Desktop
 
 
 
-## :gem:**Getting started**
+## 💎**Getting started**
 1. Clone repository   - :octocat: (https://github.com/AlanaCastillo/Ironhack-Project-Module-2)
 2. Make sure you have PowerBI installed
 3. Open file in Power BI Desktop
@@ -34,13 +34,13 @@ The aim of this dashboard is to provide the operation department (pick, pack, sh
  
 
 
-## :gem:**Design Mockup**
+## 💎**Design Mockup**
 ![Mockup](https://github.com/AlanaCastillo/Ironhack-Project-Module-2/assets/141866356/2a047127-9b8f-4196-92b5-6b3cd523c9b0)
 
 
 *This was the main idea of the project, but during development it evolved to a more particular data
 
-## 📦**Author**
+## 💎**Author**
 
 - Alana Castillo Trujillo
 - :octocat: https://github.com/AlanaCastillo)https://github.com/AlanaCastillo
