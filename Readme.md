@@ -52,11 +52,13 @@ The dataset used in this contest contains different features about diamonds.
 
 
 **Data Cleaning**   
-  
-The dataset is stored with format .db. To do the data cleaning I used DBeaver.
-I used SQL querys, to get the tables.
 
-#Data Preprocessing:
+- The dataset is stored with format .db to do the data cleaning I used DBeaver.
+- I used SQL querys, to get the tables.
+
+  **Data Preprocessing** 
+  
+
 o	Categorical variables (cut, color, clarity and city) were encoded with LabenEncoder from scikit-learn.
 o	I concatenate features to make a single table.
 o	I sorted the columns so that they were in the same format as the test
