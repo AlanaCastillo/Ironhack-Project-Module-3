@@ -74,7 +74,7 @@ DBeaver
 - Split the preprocessed dataset into training and testing sets using train_test_split from scikit-learn.
 - Try 4 different models:
 	1.	Linear Regression
-	2.	RandomForest 💎
+	2.	RandomForest 💎Winner Model
 	3.	DecisionTree
 	4.	GradientBoosting
 - I decided to use the Random Forest Regressor model, which has been the one that has given me the best results.
