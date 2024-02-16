@@ -48,7 +48,7 @@ The dataset used in this contest contains different features about diamonds.
 -DBeaver
 
 
--Jupyter Notebook ![icons8-jupyter-48](https://github.com/AlanaCastillo/Ironhack-Project-Module-3/assets/141866356/4beb748a-fb24-4ed4-b0f3-d105ade0ecb3)
+-![icons8-jupyter-48](https://github.com/AlanaCastillo/Ironhack-Project-Module-3/assets/141866356/4beb748a-fb24-4ed4-b0f3-d105ade0ecb3)  Jupyter Notebook 
 
 
 
