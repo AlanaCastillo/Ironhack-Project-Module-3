@@ -49,9 +49,10 @@ The dataset used in this contest contains different features about diamonds.
 -Jupyter Notebook 
 
 ## 💎**Steps**
-Data Cleaning
-o	The dataset is stored with format .db. To do the data cleaning I used DBeaver.
+#Data Cleaning
+   The dataset is stored with format .db. To do the data cleaning I used DBeaver.
 o	I used SQL querys, to get the tables.
+
 Data Preprocessing:
 o	Categorical variables (cut, color, clarity and city) were encoded with LabenEncoder from scikit-learn.
 o	I concatenate features to make a single table.
