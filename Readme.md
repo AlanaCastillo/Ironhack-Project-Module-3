@@ -45,7 +45,8 @@ The dataset used in this contest contains different features about diamonds.
 
 
 ## 💎**Tecnologies**
--DBeaver
+-DBeaver![DBeaver-Logo wine](https://github.com/AlanaCastillo/Ironhack-Project-Module-3/assets/141866356/37153a40-bb97-420f-a0c4-417751cd9de5)
+
 
 -Jupyter Notebook 
 
