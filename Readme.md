@@ -79,7 +79,7 @@ The dataset used in this contest contains different features about diamonds.
 - Obtain predictions of diamond prices, import to csv and upload to Kaggle competition.
 
 
-## 💎 ProjectStructure
+## 💎 Project Structure
 
 ```bash
 └── project   
