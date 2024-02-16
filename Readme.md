@@ -53,26 +53,29 @@ The dataset used in this contest contains different features about diamonds.
 
 **Data Cleaning**   
 
-- The dataset is stored with format .db to do the data cleaning I used DBeaver.
-- I used SQL querys, to get the tables.
+- The dataset is stored with format .db I proceed to extract the data with DBeaver.
+-  I use SQLite to be able toto get the tables.and export it to a CSV file
+
 
   **Data Preprocessing** 
   
 
-o	Categorical variables (cut, color, clarity and city) were encoded with LabenEncoder from scikit-learn.
-o	I concatenate features to make a single table.
-o	I sorted the columns so that they were in the same format as the test
-Features + Target:
-o	I separated my data into X (Features) and y (Target), so I can train the model.
-Model Building 
-o	I split the preprocessed dataset into training and testing sets using train_test_split from scikit-learn.
-o	I tried 4 different models:
+- Categorical variables (cut, color, clarity and city) were encoded with LabenEncoder from scikit-learn.
+- I concatenate features to make a single table.
+- I sorted the columns so that they were in the same format as the test
+
+**Features and Target** 
+- I separated my data into X (Features) and y (Target), so I can train the model.
+  
+**Model Building** 
+- I split the preprocessed dataset into training and testing sets using train_test_split from scikit-learn.
+- I tried 4 different models:
 1.	Linear Regression
 2.	RandomForest
 3.	DecisionTree
 4.	GradientBoosting
-o	I decided to use the Random Forest Regressor model, which has been the one that has given me the best results.
-o	Obtain predictions of diamond prices, import to csv and upload to Kaggle competition.
+- I decided to use the Random Forest Regressor model, which has been the one that has given me the best results.
+- Obtain predictions of diamond prices, import to csv and upload to Kaggle competition.
 
 
 
