@@ -98,7 +98,7 @@ DBeaver
         ├── Desision Tree.ipynb
         ├── Linear.ipynb
         └── Random.ipynb
-    └── README.md
+    └── Readme.md
 ```
 
 ## 💎**Author**
